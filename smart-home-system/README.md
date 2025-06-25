@@ -1,14 +1,14 @@
-# Smart Home System
+# 🏠 Smart Home System
 
 This project is a smart home system built using Python. It allows users to control various devices in their home, such as lights, thermostat, and security systems, through a simple interface.
 
-## Features
+## ✨ Features
 
-- Control smart lights (turn on/off and adjust brightness)
-- Manage home temperature with a thermostat
-- Monitor and control the security system (arm/disarm and check status)
+- 💡 Control smart lights (turn on/off and adjust brightness)
+- 🌡️ Manage home temperature with a thermostat
+- 🔒 Monitor and control the security system (arm/disarm and check status)
 
-## Project Structure
+## 📂 Project Structure
 
 ```
 smart-home-system
@@ -30,32 +30,33 @@ smart-home-system
 └── README.md
 ```
 
-## Installation
+## ⚙️ Installation
 
 1. Clone the repository:
-   ```
+   ```bash
    git clone <repository-url>
    cd smart-home-system
    ```
 
 2. Install the required dependencies:
-   ```
+   ```bash
    pip install -r requirements.txt
    ```
 
-## Usage
+## 🚀 Usage
 
 To run the smart home system, execute the following command:
-```
+```bash
 python src/main.py
 ```
 
 Follow the on-screen instructions to interact with the smart home devices.
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
 
-## License
+## 📜 License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
+```
